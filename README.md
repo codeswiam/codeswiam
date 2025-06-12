@@ -1,6 +1,6 @@
 # 👋 Well hello there, I'm Wiam 🥰 !
 
-🎓 I'm currently pursuing a **double Master's degree in Software Engineering and Cybersecurity**.
+🎓 I'm currently pursuing a **dual Master's degree in Software Engineering and Cybersecurity**.
 
 💻 I'm most happy when I'm on my keyboard writing code—whether it's building full-fledged projects or solving fun **DSA problems** on platforms like LeetCode and Codewars.
 
@@ -12,7 +12,7 @@
 
 **Frameworks & Libraries I'm comfortable with:** React.js ⚛️, Angular.js, Node.js, Express.js, Spring Boot 🌱.
 
-**Currently learning:** Django 🐍.
+**Currently leveling up in:** Flask.
 
 ## 🌱 Goals
 One of my upcoming goals is to build a solid **portfolio** to showcase my projects and skills.
